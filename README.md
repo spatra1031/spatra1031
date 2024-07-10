@@ -1,10 +1,11 @@
 👋 Hi, I’m @SurajitPatra
 
 👀 Interests
+- Learning New Technologies: I am particularly fascinated by AI and its potential to transform various industries. I constantly seek to expand my knowledge in this field.
 - Riding Motorcycles: I love the thrill and freedom of riding motorcycles, and I enjoy exploring new places on two wheels.
 - Working on Motorcycles: Beyond riding, I have a passion for the mechanics and maintenance of motorcycles. I enjoy tinkering, customizing, and ensuring they run perfectly.
 - Cooking: Experimenting in the kitchen is one of my favorite pastimes. I love trying out new recipes and cooking techniques.
-- Learning New Technologies: I am particularly fascinated by AI and its potential to transform various industries. I constantly seek to expand my knowledge in this field.
+
 
 🌱 Currently Learning
 - Data Analytics with Scala and SQL: Enhancing my data manipulation and analysis skills using Scala and SQL to derive meaningful insights from data.
