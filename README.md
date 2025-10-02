@@ -21,7 +21,7 @@
 - Data Analytics, Data Engineering, Data Management, and Project Management: Collaborating on various aspects of data projects, from analysis and engineering to overall project management.
 
 📫 How to Reach Me
-Feel free to connect with me via spatra2@hawk.iit.edu, or you can contact me on LinkedIn at www.linkedin.com/in/surajit-patra-906436101.
+Feel free to connect with me via surajitpatra.sp93@gmail.com, or you can contact me on LinkedIn at www.linkedin.com/in/surajit-patra-906436101.
 
 😄 Pronouns
 He/Him
